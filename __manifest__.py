@@ -16,7 +16,6 @@
                 'timbre_fiscal',
                 ],
     'data': [
-        'report/reports.xml',
         'report/invoice_report_template.xml',
     ],
     'images': [

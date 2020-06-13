@@ -20,4 +20,4 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-from . import amount_word
+# from . import amount_word
